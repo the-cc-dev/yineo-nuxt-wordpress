@@ -20,6 +20,7 @@
         <div class="navbar-end">
           <nuxt-link to="/" class="navbar-item"> Home </nuxt-link>
           <nuxt-link to="/blog" class="navbar-item"> Blog </nuxt-link>
+          <a href="http://formations.yineo.fr" class="navbar-item"> Formations </a>
           <nuxt-link to="/contact" class="navbar-item"> Contact </nuxt-link>
         </div>
       </div>
