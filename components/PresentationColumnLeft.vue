@@ -26,9 +26,8 @@
         <strong>Vue.js</strong>,
         <strong>Nuxt.js</strong>,
         <strong>React</strong>,
-        <strong>Next.js</strong>,
-        <strong>Node</strong> et
-        <strong>Angular</strong>
+        <strong>Next.js</strong> et
+        <strong>Node</strong>
         <br>
       </blockquote>
     </section>
