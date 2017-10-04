@@ -19,7 +19,7 @@
     <section class="content is-medium">
       <blockquote>
 
-        Je m'appelle Yann, développeur Web depuis 2009, spécialisé dans les technologies
+        Développeur Web depuis 2009, je suis spécialisé dans les technologies
         <strong>JavaScript</strong>
         telles que
 
