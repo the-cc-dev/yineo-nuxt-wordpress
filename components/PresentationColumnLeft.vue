@@ -23,15 +23,14 @@
         <strong>JavaScript</strong>
         telles que
 
-        <strong>Vue.js</strong>,
-        <strong>Nuxt.js</strong>,
         <strong>React</strong>,
-        <strong>Next.js</strong> et
-        <strong>Node</strong>
+        <strong>Node</strong> et
+        <strong>Vue.js</strong>. Je propose également des solutions pour le <em>référencement du JavaScript</em> grâce aux solutions <strong>Next.js</strong> (React avec Server Side Rendering) et <strong>Nuxt.js</strong> (Vue.js avec Server Side Rendering)
         <br>
       </blockquote>
     </section>
 
+    <!--
     <section class="section content">
       <h2 class="title is-3">Projets personnels</h2>
       <ul>
@@ -47,6 +46,7 @@
         </li>
       </ul>
     </section>
+    -->
     
   </div>
 </template>
