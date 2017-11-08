@@ -1,11 +1,9 @@
 # Example consumer with Nuxt.js / Vue.js and public wordpress API
 
-This was the consumer for yineo.fr until august 2017. 
-yineo.fr will soon using a graphQL API backed by Drupal 8 : https://github.com/nyl-auster/yineo-front
-But i keep this repo for interested wordpress people.
-Wordpress JSON API is great, I only regret that this is quite slow ( 600ms or > ) for now.
+This is the consumer for https://yineo.fr, using wordpress.com public API.
+Wordpress public JSON API is great but is quite slow ( 600ms or > ) for now.
 That's why this repo include a simple proxy to cache responses.
-You can see cache stats at api/cache and flush going to api/cache/flush
+You can see cache stats at api/cache
 
 ## Build Setup
 
