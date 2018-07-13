@@ -9,7 +9,7 @@
 
         </h1>
         <h2 class="subtitle is-3">
-          Développeur
+          Développeur 
           <span class="is-red">freelance</span> à Nantes.<br>
         </h2>
 
@@ -18,10 +18,8 @@
 
     <section class="content is-medium">
       <blockquote>
-        Développeur spécialisé <strong>React</strong> et <strong>Next</strong>. Je développement également en
-        <strong>Vue.js ( et Nuxt.js)</strong>,
-        <strong>Node</strong> et <strong>GraphQL</strong>
-        <br>
+        Développeur web depuis 10 ans, je suis aujourd'hui spécialisé en <strong>React</strong> et
+        <strong>Vue.js</strong>.
       </blockquote>
     </section>
 
