@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="section has-text-centered">
-      <h1 class="title is-1" v-if="error.statusCode === 404">Page non trouvée</h1>
+      <h1 class="title is-1" v-if="error.statusCode === 404">Page non trouvée ou dépubliée.</h1>
       <h1 v-else>Une erreur {{error.statusCode}} s'est produite</h1>
       <nuxt-link class="button primary" to="/">Retourner à Accueil</nuxt-link>
     </div>
