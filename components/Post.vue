@@ -11,6 +11,7 @@
 
     <div class="container is-narrow">
       <section class="post section">
+        <PostDate :date="post.date" />
         <div v-html="post.content.rendered" class="content"></div>
         <TagsLinks v-if="post._embedded['wp:term'][1]" :tags="post._embedded['wp:term'][1]" />
       </section>
@@ -20,8 +21,9 @@
 
 <script>
 import TagsLinks from '~/components/TagsLinks'
+import PostDate from './PostDate'
 export default {
-  components: { TagsLinks },
+  components: { TagsLinks, PostDate },
   props: {
     post: { type: Object, default: {} }
   }

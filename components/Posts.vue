@@ -18,6 +18,7 @@
           <nuxt-link class="title is-3" :to="{ name: 'blog-slug', params: { slug: post.slug, post: post } }">
             <h2 v-html="post.title.rendered"></h2>
           </nuxt-link>
+          <PostDate :date="post.date" />
 
           <div class="content" v-html="post.excerpt.rendered"></div>
 
@@ -39,11 +40,12 @@
 <script>
 import BulmaButtonLink from './BulmaButtonLink'
 import Pagination from './Pagination'
+import PostDate from './PostDate'
 export default {
   props: {
     posts: { type: Object, default: () => {} }
   },
-  components: { Pagination, BulmaButtonLink }
+  components: { Pagination, BulmaButtonLink, PostDate }
 }
 </script>
 
