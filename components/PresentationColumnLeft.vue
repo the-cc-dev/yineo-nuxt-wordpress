@@ -18,9 +18,9 @@
 
     <section class="content is-medium">
       <blockquote>
-        Développeur Web depuis 2009, spécialisé <strong>React</strong> (ainsi que Next.js). Je fais également du
-        <strong>Vue.js ( ainsi que Nuxt.js)</strong>, du
-        <strong>Node</strong> et du <strong>GraphQL</strong>
+        Développeur spécialisé <strong>React</strong> et <strong>Next</strong>. Je développement également en
+        <strong>Vue.js ( et Nuxt.js)</strong>,
+        <strong>Node</strong> et <strong>GraphQL</strong>
         <br>
       </blockquote>
     </section>
