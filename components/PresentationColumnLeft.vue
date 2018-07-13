@@ -18,14 +18,9 @@
 
     <section class="content is-medium">
       <blockquote>
-
-        Développeur Web depuis 2009, je suis spécialisé dans les technologies
-        <strong>JavaScript</strong>
-        telles que
-
-        <strong>React</strong>,
-        <strong>Node</strong> et
-        <strong>Vue.js</strong>. Je propose également des solutions pour le <em>référencement du JavaScript</em> grâce aux solutions <strong>Next.js</strong> (React avec Server Side Rendering) et <strong>Nuxt.js</strong> (Vue.js avec Server Side Rendering)
+        Développeur Web depuis 2009, spécialisé <strong>React</strong> (ainsi que Next.js). Je fais également du
+        <strong>Vue.js ( ainsi que Nuxt.js)</strong>, du
+        <strong>Node</strong> et du <strong>GraphQL</strong>
         <br>
       </blockquote>
     </section>

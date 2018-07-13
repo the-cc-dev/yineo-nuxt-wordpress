@@ -20,7 +20,6 @@
         <div class="navbar-end">
           <nuxt-link to="/" class="navbar-item"> Home </nuxt-link>
           <nuxt-link to="/blog" class="navbar-item"> Blog </nuxt-link>
-          <a href="http://formations.yineo.fr" class="navbar-item"> Formations </a>
           <nuxt-link to="/contact" class="navbar-item"> Contact </nuxt-link>
         </div>
       </div>
@@ -32,12 +31,15 @@
 <script>
 export default {
   methods: {
-    setMenuMobileIsOpened () {
-      console.log(this.$store.state)
-      this.$store.commit('setMenuMobileIsOpened', !this.$store.state.menuMobileIsOpened)
+    setMenuMobileIsOpened() {
+      console.log(this.$store.state);
+      this.$store.commit(
+        "setMenuMobileIsOpened",
+        !this.$store.state.menuMobileIsOpened
+      );
     }
   }
-}
+};
 </script>
 
 <style scoped>
@@ -51,11 +53,9 @@ export default {
   margin: auto !important;
 }
 
-
 /* Create slide animation on mobile */
 
 @media screen and (max-width: 1007px) {
-
   .navbar-item img {
     height: 2.75rem;
     max-height: 2.75rem;
@@ -72,7 +72,7 @@ export default {
 
   .navbar-burger img {
     height: 2rem;
-    margin: 1.25rem 0 0 .6rem;
+    margin: 1.25rem 0 0 0.6rem;
   }
 
   .navbar-end {
