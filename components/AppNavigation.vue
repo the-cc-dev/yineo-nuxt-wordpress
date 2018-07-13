@@ -31,15 +31,15 @@
 <script>
 export default {
   methods: {
-    setMenuMobileIsOpened() {
-      console.log(this.$store.state);
+    setMenuMobileIsOpened () {
+      console.log(this.$store.state)
       this.$store.commit(
-        "setMenuMobileIsOpened",
+        'setMenuMobileIsOpened',
         !this.$store.state.menuMobileIsOpened
-      );
+      )
     }
   }
-};
+}
 </script>
 
 <style scoped>

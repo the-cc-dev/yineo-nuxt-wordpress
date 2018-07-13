@@ -41,8 +41,7 @@ module.exports = {
     ** Run ESLINT on save
     */
     extend (config, ctx) {
-
-      // disable uglify, does not support ES6 
+      // disable uglify, does not support ES6
       config.plugins = config.plugins.filter((plugin) => plugin.constructor.name !== 'UglifyJsPlugin')
 
       if (ctx.isDev && ctx.isClient) {

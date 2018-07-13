@@ -7,6 +7,6 @@ import Contact from '~/components/Contact'
 
 export default {
   transition: 'page',
-  components: { Contact },
+  components: { Contact }
 }
 </script>
