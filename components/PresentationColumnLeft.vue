@@ -18,8 +18,8 @@
 
     <section class="content is-medium">
       <blockquote>
-        Développeur web depuis 10 ans, je suis aujourd'hui spécialisé en <strong>React</strong> et
-        <strong>Vue.js</strong>.
+        Développeur web depuis 10 ans, je suis aujourd'hui spécialisé en <strong>React</strong>, 
+        <strong>Vue.js</strong>, Node et GraphQL.
       </blockquote>
     </section>
 

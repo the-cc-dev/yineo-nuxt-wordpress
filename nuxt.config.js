@@ -25,6 +25,7 @@ module.exports = {
     ],
     link: [
       { rel: 'stylesheet', href: '/css/bulma-5.1.css' },
+      { rel: 'stylesheet', href: '/css/bulma-timeline.min' },
       { rel: 'stylesheet', href: '/css/app.css' }
     ]
   },
