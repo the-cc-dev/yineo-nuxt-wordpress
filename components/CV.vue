@@ -4,7 +4,8 @@
 <div class="content">
   <blockquote>J'ai commencé en tant que développeur <strong>PHP</strong> en 2008. Je me suis rapidement expertisé sur PHP et Drupal dans des agences web et SSII à Paris, <strong>au contact de grands projets</strong> comme la refonte du site de France Inter. En 2016, j'ajoute <strong>JavaScript</strong> à mes compétences. En 2017 je me spécialise en Vue.js et React, Node et GraphQL. En parallèle, j'apprends aujourd'hui Rust. 
           <br /><br />
-Mes dix années d'expériences dont 5 années en indépendant me donnent une vision aiguisée des enjeux d'un projet web et me permettent d'éviter les erreurs et pièges courant qui le mettent en danger. Mon large éventail technique alliée à ma connaissance de l'agile et au sens des priorités me permettent d'assurer la qualité des livraisons pour l'utilisateur final.</blockquote>
+Mes dix années d'expériences dont 5 années en indépendant me donnent une vision aiguisée des enjeux d'un projet web et me permettent d'éviter les erreurs et pièges courant qui le mettent en danger. Mon large éventail technique alliée à ma connaissance de l'agile et au sens des priorités me permettent d'assurer la qualité des livraisons pour l'utilisateur final.
+<br /><br /> Mon compte github 👨‍💻 : <a href="https://github.com/nyl-auster">https://github.com/nyl-auster</a></blockquote>
 </div>
 <h2 class="title is-2 has-text-centered section">Mes dernières expériences</h2>
     <div class="tile is-ancestor">
