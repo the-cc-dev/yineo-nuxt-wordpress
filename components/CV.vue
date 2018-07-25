@@ -14,7 +14,7 @@
           <div class="tile is-parent is-vertical">
             <article class="tile is-child notification is-info">
               <p class="title">2018 - Ministère de la transition écologique</p>
-              <p class="subtitle">React, Redux, Next.js, API GraphQL, Node</p>
+              <p class="subtitle">#React #Redux #Next.js #GraphQL #Node</p>
               <div class="content">
                  Aides territoires est un site permettant d'identifier en quelques clics toutes les aides disponibles sur votre territoire pour vos projets d'aménagement durable
                   <br /><br /><a class="" href="https://recherche.aides-territoires.beta.gouv.fr/">Application de recherche</a>
@@ -23,7 +23,7 @@
             </article>
             <article class="tile is-child notification is-warning">
               <p class="title">2016 - SOWEE</p>
-              <p class="subtitle">AngularJS, Drupal, Salesforce</p>
+              <p class="subtitle">#AngularJS #Drupal #Salesforce</p>
               <div class="content">
                 Boutique en ligne custom pour l'achat de contrat d'énergie et station connectée
                 <a href="https://www.sowee.fr/">https://www.sowee.fr/</a>
@@ -31,12 +31,17 @@
             </article>
           </div>
           <div class="tile is-parent">
-            <article class="tile is-child notification is-info">
-              <p class="title">2017 - STERBLUE</p>
-              <p class="subtitle">React, Redux, GraphQL</p>
+            <article class="tile is-child notification is-primary">
               <div class="content">
-              Le Cloud Sterblue est la plateforme industrielle permettant d’automatiser les inspections industrielles. De la génération automatique de plans de vol à la visualisation des données traitées, en passant par le traitement de données.
-              <a href="https://www.sterblue.com/fr/">https://www.sterblue.com/fr/</a>
+                <p class="title">2018 - Coorganiz</p>
+                <p class="subtitle">#Vue.js</p>
+                <div class="content">
+                  Une application complexe pour mettre en relation les personnes autour d'un projet ou d'une personne; avec calendrier partagé, tchat, paiement Stripe.
+                  With Coorganiz, 
+                  organizing yourself with others has never been easier !<br /><br />
+                  <a href="http://coorganiz.com/">http://coorganiz.com/</a><br />
+                  <a href="http://app.coorganiz.com/">http://app.coorganiz.com/</a>
+                </div>
               </div>
             </article>
           </div>
@@ -44,7 +49,7 @@
         <div class="tile is-parent">
           <article class="tile is-child notification is-warning">
             <p class="title">2016 - PALAIS DE TOKYO</p>
-            <p class="subtitle">AngularJS, Apache Solr</p>
+            <p class="subtitle">#AngularJS #ApacheSolr</p>
             <div class="content">
               <a href="https://www.palaisdetokyo.com/">https://www.palaisdetokyo.com/</a>
               <!-- Content -->
@@ -53,16 +58,12 @@
         </div>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-info">
+          <p class="title">2017 - STERBLUE</p>
+          <p class="subtitle">#React #Redux #GraphQL</p>
           <div class="content">
-            <p class="title">2018 - Coorganiz</p>
-            <p class="subtitle">Vue.js</p>
-            <div class="content">
-              With Coorganiz, 
-              organizing yourself with others has never been easier !<br /><br />
-              <a href="http://coorganiz.com/">http://coorganiz.com/</a><br />
-              <a href="http://app.coorganiz.com/">http://app.coorganiz.com/</a>
-            </div>
+          Le Cloud Sterblue est la plateforme industrielle permettant d’automatiser les inspections industrielles. De la génération automatique de plans de vol à la visualisation des données traitées, en passant par le traitement de données.
+          <a href="https://www.sterblue.com/fr/">https://www.sterblue.com/fr/</a>
           </div>
         </article>
       </div>
