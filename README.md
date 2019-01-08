@@ -1,6 +1,6 @@
 # Example consumer with Nuxt.js / Vue.js and public wordpress API
 
-This is the consumer for https://yineo.fr, using wordpress.com public API.
+This was the consumer for old version of https://yineo.fr, using wordpress.com public API.
 Wordpress public JSON API is great but is quite slow ( 600ms or > ) for now.
 That's why this repo include a simple proxy to cache responses.
 You can see cache stats at api/cache
