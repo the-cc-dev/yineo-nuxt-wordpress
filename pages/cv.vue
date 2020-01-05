@@ -1,12 +1,11 @@
 <template>
-  <Contact />
+  <CV />
 </template>
 
 <script>
-import Contact from '~/components/Contact'
-
+import CV from '~/components/CV'
 export default {
   transition: 'page',
-  components: { Contact }
+  components: { CV }
 }
 </script>

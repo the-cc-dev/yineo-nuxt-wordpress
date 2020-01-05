@@ -9,7 +9,7 @@
 
         </h1>
         <h2 class="subtitle is-3">
-          Développeur
+          Développeur 
           <span class="is-red">freelance</span> à Nantes.<br>
         </h2>
 
@@ -18,20 +18,12 @@
 
     <section class="content is-medium">
       <blockquote>
-
-        Je m'appelle Yann, développeur Web depuis 2009, spécialisé dans les technologies
-        <strong>JavaScript</strong>
-        telles que
-
-        <strong>Vue.js</strong>,
-        <strong>Nuxt.js</strong>,
-        <strong>React</strong>,
-        <strong>Next.js</strong> et
-        <strong>Node</strong>
-        <br>
+        Développeur web depuis 10 ans, je suis aujourd'hui spécialisé en <strong>React</strong>, 
+        <strong>Vue.js</strong>, Node et GraphQL.
       </blockquote>
     </section>
 
+    <!--
     <section class="section content">
       <h2 class="title is-3">Projets personnels</h2>
       <ul>
@@ -47,6 +39,7 @@
         </li>
       </ul>
     </section>
+    -->
     
   </div>
 </template>

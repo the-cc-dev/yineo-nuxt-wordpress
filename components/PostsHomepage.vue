@@ -11,7 +11,7 @@ import BulmaGrid from '~/components/BulmaGrid'
 import PostTeaser from '~/components/PostTeaser'
 export default {
   props: {
-     posts: { type: Array, default: () => [] }
+    posts: { type: Array, default: () => [] }
   },
   components: { BulmaGrid, PostTeaser }
 }

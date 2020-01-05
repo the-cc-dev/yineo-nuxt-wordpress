@@ -2,7 +2,7 @@ module.exports = {
   env: {
     wordpressApiBaseUrl: 'https://public-api.wordpress.com/wp/v2/sites/yannboisselier.wordpress.com',
     // use https on prod, http on local
-    proxyApiBaseUrl: process.env.NODE_ENV == 'production' ? 'https://yineo.fr/api' : 'http://localhost:3000/api'
+    proxyApiBaseUrl: process.env.NODE_ENV === 'production' ? 'https://yineo.fr/api' : 'http://localhost:3000/api'
   },
   plugins: [
     '~/plugins/app',
@@ -25,6 +25,7 @@ module.exports = {
     ],
     link: [
       { rel: 'stylesheet', href: '/css/bulma-5.1.css' },
+      { rel: 'stylesheet', href: '/css/bulma-timeline.min' },
       { rel: 'stylesheet', href: '/css/app.css' }
     ]
   },
@@ -41,8 +42,7 @@ module.exports = {
     ** Run ESLINT on save
     */
     extend (config, ctx) {
-
-      // disable uglify, does not support ES6 
+      // disable uglify, does not support ES6
       config.plugins = config.plugins.filter((plugin) => plugin.constructor.name !== 'UglifyJsPlugin')
 
       if (ctx.isDev && ctx.isClient) {

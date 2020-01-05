@@ -14,7 +14,7 @@
     <div class="section content posts">
       <h2 class="title is-3">Derniers articles</h2>
       <BulmaGrid :items="posts" itemsByRow="2">
-        <template scope="row">
+        <template slot-scope="row">
           <PostTeaserHomepage :post="row.item" />
         </template>
       </BulmaGrid>

@@ -1,5 +1,10 @@
 <template>
-  <Post :post="post" />
+  <div>
+    <h1 class="title is-2 section container has-text-centered" v-if="post === undefined">
+      Aucun post trouvé pour cet id
+    </h1>
+    <Post v-if="post" :post="post" />
+  </div>
 </template>
 
 <script>
